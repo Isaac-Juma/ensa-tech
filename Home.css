@@ -65,6 +65,7 @@ body  {
 }
 .header .logo  {
     justify-content: flex-start;
+    width 200px;
 
 }
 .header p  {
